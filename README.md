@@ -11,8 +11,6 @@ By using Laravel and MySQL in the backend of your portfolio site, you can create
 
 Additionally, you can use Laravel's templating engine to create an intuitive and user-friendly interface for your portfolio site, with features like a responsive design and a user-friendly navigation system. You can also use MySQL to store your projects and work samples, making it easy to update and manage your portfolio as you progress in your career.
 
-In summary, a portfolio site using Laravel and MySQL in the backend is an excellent choice for developers who want to build a high-performance, scalable, and secure web application to showcase their skills and experience. With the right implementation, it can help you stand out from the crowd and land your dream job or clients.
-
 
 ## After Pull
 
