@@ -30,6 +30,7 @@ RewriteRule ^(.*)$ public/$1 [L]
 Save the .htaccess file.
 This code will redirect all requests to the public directory, effectively removing the public from the URL. Now you can access your Laravel application without including "public" in the URL.
 
+## Or move files from public to root file BUT DON'T FORGET change paths in "Index.php" file after move it 
 
 
 ## Don't forget create .env file after clone project
